@@ -8,4 +8,4 @@ i have used
 # What i lerned 
 i learned about positioning here. 
 # live link 
-(here)[https://lucky-rolypoly-4c786e.netlify.app/]
+[here](https://lucky-rolypoly-4c786e.netlify.app/)
